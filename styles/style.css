@@ -1,10 +1,96 @@
-*{
+* {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
 	font-size: 100%;
 	font-family: 'HelveticaNeue';
 }
+.nika-background {
+	height: 308px;
+	background-color: #0A22F4;
+}
+.nika-container {
+	position: relative;
+	max-width: 1439px;
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+	background-color: #0A22F4;
+}
+.nika-title {
+	position: absolute;
+	font-size: 32px;
+	color: #FFFFFF;
+	left: 0px; 
+	top: 70px;
+}
+.nika-dot1 {
+	position: absolute;
+	background-color: #FFFFFF;
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	top: 84px;
+	right: 60px;
+}
+.nika-dot2 {
+	position: absolute;
+	background-color: #FFFFFF;
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	top: 84px;
+	right: 30px;
+}
+.nika-dot3 {
+	position: absolute;
+	background-color: #FFFFFF;
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	top: 84px;
+	right: 0px;
+}
+.nika-container2 {
+	position: relative;
+	max-width: 1439px;
+	width: 100%;
+	margin: 0 auto;
+	background-color:  #FFFFFF;
+}
+.nika-imgblock {
+	position: relative;
+	display: inline-block;
+	left: 423px;
+	margin-top: -160px;
+	width: 553px;
+	height: 510px;
+	border-radius: 12px;
+}
+ .nika-img {
+	width: 100%;
+}
+.nika-parablock {
+	display: inline block;
+	position: absolute;
+	padding-top: 28px;
+	width: 443px;
+	height: 125px;
+	border-radius: 12px;
+	background-color: #FFFFFF;
+	opacity: 0.8;
+	bottom: 65px;
+	left: 55px;
+	text-align: center;
+}
+.nika-text {
+	display: inline-block;
+	margin: auto;
+	font-size: 18px;
+	width: 100%;
+	color: #171717;
+}
+
 /* anna akhalbedashvili */
 .proeqtebiAA{
 	background-color: #0A22F4;
@@ -51,3 +137,4 @@
 	margin-bottom: 10px;
 }
 /* anna akhalbedashvili */
+
