@@ -61,7 +61,7 @@
 .nika-imgblock {
 	position: relative;
 	display: inline-block;
-	left: 423px;
+	left: 443px;
 	margin-top: -160px;
 	width: 553px;
 	height: 510px;
@@ -90,14 +90,7 @@
 	width: 100%;
 	color: #171717;
 }
-
 /* anna akhalbedashvili */
-.proeqtebiAA{
-	background-color: #0A22F4;
-	height: 308px;
-	color: #FFFFFF;
-	
-}
 .proeqtebiAA h3{
 	width: 184px;
 	padding-top: 70px;
@@ -108,11 +101,9 @@
 .img-blog1AA{
 	width: 463px;
 	display: inline-block;
-	position: relative;
-	/* top:188px; */
-	left: 240px;
-	margin-top: -160px;
-	
+	position: absolute;
+	left: 0px;
+	margin-top: -60px;
 }
 .img-blog1AA img {
 	width: 100%;
@@ -140,20 +131,14 @@
 /* anna akhalbedashvili */
 
 
-
-
-
-
-
 /* mzia tvaradze */
 
 .third{
 	width: 463px;
 	display: inline-block;
-	position: relative;
-	float: right;
-	margin-top: -420px;
-	padding-left: 35px;
+	position: absolute;
+	left: 976px;
+	margin-top: -60px;
 }
 .third img{
 	display: block;
@@ -183,7 +168,6 @@
 	margin-bottom: 10px;
 
 }
-
 .pro{
 	width: 145px;
 	height: 22px;
